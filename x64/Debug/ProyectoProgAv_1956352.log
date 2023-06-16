@@ -1,0 +1,37 @@
+﻿  ProyectoProgAv_1956352.cpp
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(713,54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(759,31): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(762,32): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(837,39): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(840,40): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(872,66): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1056,31): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1061,36): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1098,40): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1117,72): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1132,64): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1154,36): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1161,49): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1217,28): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1253,27): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1258,32): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1293,30): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1296,33): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1305,57): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1339,37): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1344,44): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1357,58): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1364,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1389,26): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1392,29): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1401,53): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1096,26): warning C4101: 'total': unreferenced local variable
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1976,28): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1993,28): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(2011,28): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(406): warning C4715: 'iniciarSesion': not all control paths return a value
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(622): warning C4715: 'MostrarUsuarios': not all control paths return a value
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(1454): warning C4715: 'Envios': not all control paths return a value
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(2100): warning C4172: returning address of local variable or temporary: time
+C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\ProyectoProgAv_1956352\ProyectoProgAv_1956352.cpp(971): warning C4715: 'AgregarArticulo': not all control paths return a value
+  ProyectoProgAv_1956352.vcxproj -> C:\Users\Tibs\source\repos\ProyectoProgAv_1956352\x64\Debug\ProyectoProgAv_1956352.exe
